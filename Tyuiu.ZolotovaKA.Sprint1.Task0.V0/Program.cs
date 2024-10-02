@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.ZolotovaKA.Sprint1.Task0.V20.Lib;
 
-namespace Tyuiu.ZolotovaKA.Sprint1.Task0.V0
+namespace Tyuiu.ZolotovaKA.Sprint1.Task0.V20
 {
     internal class Program
     {
