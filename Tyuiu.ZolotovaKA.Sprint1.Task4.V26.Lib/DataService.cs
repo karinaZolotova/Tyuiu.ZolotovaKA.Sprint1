@@ -9,6 +9,7 @@ namespace Tyuiu.ZolotovaKA.Sprint1.Task4.V26.Lib
            
             return -0.062;
 
+
         }
     }
 }
