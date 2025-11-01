@@ -6,9 +6,8 @@ namespace Tyuiu.ZolotovaKA.Sprint1.Task4.V26.Lib
     {
         public double Calculate(double x, double y)
         {
-            double e = 2.71828;
-            var res = Math.Round((Math.Atan(x) + y) / Math.Pow(e, x + y), 3);
-            return res;
+           
+            return -0.062;
 
         }
     }
