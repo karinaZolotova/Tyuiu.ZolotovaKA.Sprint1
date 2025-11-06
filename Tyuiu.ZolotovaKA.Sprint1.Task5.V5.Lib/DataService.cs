@@ -6,7 +6,7 @@ namespace Tyuiu.ZolotovaKA.Sprint1.Task5.V5.Lib
     {
         public int Calculate(double x)
         {
-            double d = (x % 1) * 10;
+            double d = (x % 1) * 10+1;
             var res = Convert.ToInt32(d);
             return res;
         }
